@@ -29,32 +29,20 @@ LAN 1 – VTP Configuration (Interface and Switchport; trunk & access config):  
 <img src="https://i.imgur.com/DecbkVj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Interface and Static Route Configuration (Router R1):  <br/>
-<img src="https://i.imgur.com/EgSTRkw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+LAN 1 Router Config with EIGRP Route (Router R1):  <br/>
+<img src="https://i.imgur.com/Tptn585.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Central-Office Server IP address and Subnet Mask (Server): <br/>
-<img src="https://i.imgur.com/jP7OdJn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+LAN 2 Router Config with EIGRP Routes: <br/>
+<img src="https://i.imgur.com/XaafRju.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Central-Office Server DHCP Service ON (Server):  <br/>
-<img src="https://i.imgur.com/Ffiyksg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+LAN 2 Switch S1 Port-Security Config (Unused Interfaces shutdown):  <br/>
+<img src="https://i.imgur.com/cQ6dKhJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Cell-Tower 3G/4G Server Range in meters:  <br/>
-<img src="https://i.imgur.com/ESYdS0n.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Cell-Tower Attributes:  <br/>
-<img src="https://i.imgur.com/BFh37gV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Smartphone11 IP Received From Cell-Tower DHCP Server:  <br/>
-<img src="https://i.imgur.com/PXy9ViO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Smartphone12 IP Received From Cell-Tower DHCP Server: <br/>
-<img src="https://i.imgur.com/NFf1bjb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Verify Communication between LAN 1 (VLAN 50, VLAN 10) and LAN 2 (Port-Security):  <br/>
+<img src="https://i.imgur.com/Ohu97Z4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 </p>
 
