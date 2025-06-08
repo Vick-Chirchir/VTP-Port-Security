@@ -25,8 +25,8 @@ Network Design: <br/>
 <img src="https://i.imgur.com/wkaW6dI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-PC0 Static IP with Default Gateway:  <br/>
-<img src="https://i.imgur.com/orGNaGi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+LAN 1 – VTP Configuration (Interface and Switchport; trunk & access config):  <br/>
+<img src="https://i.imgur.com/DecbkVj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Interface and Static Route Configuration (Router R1):  <br/>
