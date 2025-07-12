@@ -22,27 +22,27 @@ This lab enhanced my understanding of how wireless cellular networks interact wi
 
 <p align="center">
 Network Design: <br/>
-<img src="https://i.imgur.com/wkaW6dI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/wkaW6dI.png" style="width:80%; height:auto;" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 LAN 1 – VTP Configuration (Interface and Switchport; trunk & access config):  <br/>
-<img src="https://i.imgur.com/DecbkVj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DecbkVj.png" style="width:80%; height:auto;" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 LAN 1 Router Config with EIGRP Route (Router R1):  <br/>
-<img src="https://i.imgur.com/Tptn585.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Tptn585.png" style="width:80%; height:auto;" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 LAN 2 Router Config with EIGRP Routes: <br/>
-<img src="https://i.imgur.com/XaafRju.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/XaafRju.png" style="width:80%; height:auto;" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 LAN 2 Switch S1 Port-Security Config (Unused Interfaces shutdown):  <br/>
-<img src="https://i.imgur.com/cQ6dKhJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/cQ6dKhJ.png" style="width:80%; height:auto;" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Verify Communication between LAN 1 (VLAN 50, VLAN 10) and LAN 2 (Port-Security):  <br/>
-<img src="https://i.imgur.com/Ohu97Z4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Ohu97Z4.png" style="width:80%; height:auto;" alt="Disk Sanitization Steps"/>
 <br />
 </p>
 
